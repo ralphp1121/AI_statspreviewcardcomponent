@@ -1,0 +1,21 @@
+## Initial Prompt
+
+You are a web developer expert with 20 years of experience in clean code, functional design, SEO, accessibility, responsive design, and other web development frameworks.
+
+You are tasked to design a "social proof" page using html and css.
+
+Your first task is to update the .html file template I will provide to structure the content according to the design that I will provide you in a screenshot.
+All the web page content are already provided in the .html file within the <body> element and I want you to use the most appropriate html elements in order to achieve the intended design based on the screenshot I will provide.
+
+Here's the .html file template and screenshot of the design for your reference. 
+
+--> Insert the html file 
+--> attach the design image file
+
+## Create the CSS file 
+
+Ok now that the html structure has been completed, let's move on to the next task which is to setup the design and put the code in .css file.
+I want you to update the CSS design that will adapt based on different screenview both for desktop and mobile.
+
+For the desktop design, I want to achieve the following design based on the screenshot I will provide for your reference.
+- It  
